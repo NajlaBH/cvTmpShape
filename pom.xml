@@ -111,11 +111,6 @@
             <artifactId>junit5-engine</artifactId>
             <version>5.0.0-ALPHA</version>
         </dependency>
-        <dependency>
-	    <groupId>com.github.NajlaBH</groupId>
-	    <artifactId>cvTmpShape</artifactId>
-	    <version>1.0-SNAPSHOT</version>
-	</dependency>
     </dependencies>
     
     <!-- ___ BUILD __ tags BEGIN -->
