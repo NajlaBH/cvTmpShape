@@ -7,3 +7,4 @@ branches:
   - master
 after_success:
  - mvn clean cobertura:cobertura coveralls:cobertura
+ - bash <(curl -s https://codecov.io/bash)
